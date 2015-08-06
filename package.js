@@ -7,7 +7,7 @@ Package.describe({
 
 Npm.depends({
   'mysql': '2.6.1',
-  'mysql-live-select': '0.0.22'
+  'sushitommy-mysql-live-select': '0.0.22'
 });
 
 Package.onUse(function(api) {
